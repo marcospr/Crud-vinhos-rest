@@ -16,3 +16,4 @@ Set Up:
 3. Import the Dynamic Web Project in Eclipse.
 4. Locate cellar.properties and make sure the JDBC connection string matches your database configuration
 5. Run the project.
+6. fim
